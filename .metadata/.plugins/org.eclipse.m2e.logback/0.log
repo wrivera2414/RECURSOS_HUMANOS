@@ -1,0 +1,16 @@
+2023-06-25 00:03:22,567 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-25 00:04:11,467 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rrhh.uth:rrhh-empleados:1.0-SNAPSHOT @ C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\pom.xml.
+2023-06-25 00:04:19,473 [Worker-5: Importing Maven projects] INFO  org.reflections.Reflections - Reflections took 2562 ms to scan 163 urls, producing 8955 keys and 44067 values
+2023-06-25 00:04:19,517 [Worker-5: Importing Maven projects] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
+2023-06-25 00:04:19,742 [Worker-5: Importing Maven projects] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 162 resources. Took 223 ms.
+2023-06-25 00:04:19,880 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rrhh-empleados/src/main/java
+2023-06-25 00:04:19,881 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rrhh-empleados/src/main/resources
+2023-06-25 00:04:19,882 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rrhh-empleados/src/main/resources
+2023-06-25 00:04:19,882 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rrhh-empleados/src/test/java
+2023-06-25 00:04:20,554 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-06-25 00:04:22,356 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-25 00:04:22,375 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-25 00:04:24,724 [Worker-10: Building] INFO  org.reflections.Reflections - Reflections took 1013 ms to scan 163 urls, producing 8955 keys and 44067 values
+2023-06-25 00:04:24,731 [Worker-10: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
+2023-06-25 00:04:24,946 [Worker-10: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 162 resources. Took 214 ms.
+2023-06-25 00:04:24,956 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
