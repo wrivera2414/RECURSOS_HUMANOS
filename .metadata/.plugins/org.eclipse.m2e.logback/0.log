@@ -14,3 +14,9 @@
 2023-06-25 00:04:24,731 [Worker-10: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
 2023-06-25 00:04:24,946 [Worker-10: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 162 resources. Took 214 ms.
 2023-06-25 00:04:24,956 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
+2023-06-25 00:26:59,405 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-25 00:26:59,419 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-25 00:26:59,429 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
+2023-06-25 00:27:10,866 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-25 00:27:10,933 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-25 00:27:10,949 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
