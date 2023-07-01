@@ -197,3 +197,6 @@
 2023-06-30 17:32:08,429 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-30 17:32:08,435 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
 2023-06-30 17:32:08,440 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
+2023-06-30 18:18:29,738 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-30 18:18:29,747 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-06-30 18:18:29,751 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
