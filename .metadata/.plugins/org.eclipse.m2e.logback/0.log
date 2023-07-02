@@ -200,3 +200,7 @@
 2023-06-30 18:18:29,738 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-30 18:18:29,747 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
 2023-06-30 18:18:29,751 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
+2023-06-30 21:09:05,138 [Worker-74: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rrhh.uth:rrhh-empleados:1.0-SNAPSHOT @ C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\pom.xml.
+2023-06-30 21:09:06,950 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-30 21:09:06,951 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-30 21:09:06,954 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\Documents\Java-WorkSpace\RECURSOS_HUMANOS\rrhh-empleados\rrhh-empleados\src\test\resources
